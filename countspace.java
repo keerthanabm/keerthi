@@ -8,7 +8,7 @@ public class countspace {
 		for(i=0;i<b.length;i++){
 			count++;
 		}
-		System.out.println(count);
+		System.out.println(count-1);
 				
 	}
 
